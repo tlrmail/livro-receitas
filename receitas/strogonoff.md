@@ -20,4 +20,4 @@
 | 3               | **Colheres de extrato de tomate**        |
 | 1               | **Creme de leite 200 g**                 |
 
-## Obs: Colocar pouco sal.
+## Obs: Colocar pouco sal......
