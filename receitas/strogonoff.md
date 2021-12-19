@@ -21,3 +21,4 @@
 | 1               | **Creme de leite 200 g**                 |
 
 ## Obs: Colocar pouco sal.
+## Obs2: A carne deve estar assanda antes de cozinhar.
